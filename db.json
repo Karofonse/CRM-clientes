@@ -1,0 +1,48 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan",
+      "empresa": "codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "juan@juan.com",
+      "notas": "mmm",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Lorena",
+      "telefono": 138198313,
+      "email": "lorena@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 3,
+      "nombre": "Ana",
+      "telefono": 31983913,
+      "email": "ana@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Anderson",
+      "telefono": 319381983,
+      "email": "anderson@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "David",
+      "telefono": 1398198938,
+      "email": "david@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Andrea Carolina",
+      "empresa": "Universidad del Magdalena",
+      "email": "andrufonse123@gmail.com",
+      "telefono": "3023975974",
+      "notas": "nn",
+      "id": 12
+    }
+  ]
+}
